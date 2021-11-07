@@ -56,7 +56,22 @@ Real Estate | Business Co
 [![RealEstate](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/RealEstate.png)](https://template.fusionsvisual.id/GG/RealEstate) | [![BusinessCo](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/BusinessCo.png)](https://template.fusionsvisual.id/GG/BusinessCo)
 Bootstrap Theme - #30948 | HTML5 Template - #28159
 
-Florist |
---- |
-[![Florist](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Florist.png)](https://template.fusionsvisual.id/GG/Florist) | [![BusinessCo](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/BusinessCo.png)](https://template.fusionsvisual.id/GG/BusinessCo)
-Boostrap Template |
+Florist | Photography
+--- | ---
+[![Florist](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Florist.png)](https://template.fusionsvisual.id/GG/Florist) | [![Photography](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Photography.png)](https://template.fusionsvisual.id/GG/Photography)
+Boostrap Template - #30939 | Bootstrap Template - #30936
+
+Architex | Travel
+--- | ---
+[![Architex](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Architex.png)](https://template.fusionsvisual.id/GG/Architex) | [![Travel](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Travel.png)](https://template.fusionsvisual.id/GG/Travel)
+Bootstrap Template - #30924 | Bootstrap Template - #30918
+
+Financial Service | Agro
+--- | ---
+[![FinancialService](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/FinancialService.png)](https://template.fusionsvisual.id/GG/FinancialService) | [![Agro](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Agro.png)](https://template.fusionsvisual.id/GG/Agro)
+Bootstrap Template - #30917 | Bootstrap Template - #30916
+
+Smart Team | SPA
+--- | ---
+[![SmartTeam](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/SmartTeam.png)](https://template.fusionsvisual.id/GG/SmartTeam) | [![Spa](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Spa.png)](https://template.fusionsvisual.id/GG/Spa)
+Bootstrap Theme - #30913 | Salon Bootstrap Theme - #30914
