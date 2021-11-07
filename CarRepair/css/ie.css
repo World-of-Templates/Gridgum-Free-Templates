@@ -1,0 +1,86 @@
+.navbar_ .nav-collapse_ , .navbar_ collapse {
+    overflow: visible;
+  }
+  .btn.btn-navbar {
+	//display:none
+  }
+  body {
+  	min-width: 1000px;
+  }
+ #panel .nav-collapse.collapse {
+ 	overflow: visible;
+  }
+#advanced span.trigger strong{filter:alpha(opacity=0);}
+#advanced.closed span.trigger strong{filter:alpha(opacity=100);}
+
+#advanced .dropdown-menu li li a {
+  display: inline-block;
+}
+
+/*******/
+	div.phone {
+		font-size:18px;
+		line-height:0.95em
+	}
+	div.phone span{
+		font-size:14px;
+	}
+	.nav-collapse_ .nav > li {
+		width:132px
+	}
+	.nav-collapse_ .nav > li:first-child{
+		margin-left:6px
+	}
+	.nav-collapse_ .nav > li.line {
+		width:28px
+	}
+	
+	#main {
+		background: url("../images/bg_main_980.gif") no-repeat scroll 50% top #000000;
+	}
+	footer {
+		 background:#000 url(../images/bg_footer_menu.gif) 0 0 repeat-x;
+	}
+	div.pad_50 {
+		padding:30px
+	}
+	div.pad_50 p{
+		font-size:12px;
+		line-height:18px
+	}
+	
+	h1 {
+		font-size:50px;
+		line-height:0.85em;
+		padding-bottom:10px;
+		margin-top:0
+	}
+	h1 span {
+		font-size:40px;
+	}
+	h5, h6, .footer-menu li a{
+		font-size:18px
+	}
+	h3{
+		font-size:20px
+	}
+	h2{
+		font-size:32px
+	}
+	.social-icons li {
+		margin-right:5px
+	}
+	.footer_phone span {
+		font-size:24px
+	}
+	div.carousel-box ul li{
+		width:130px!important
+	}
+	
+	.hours {
+		padding-left:10px
+	} 
+	.element {
+		 min-height: 260px;
+	}
+
