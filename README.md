@@ -101,7 +101,32 @@ Computer Service | Sound Service
 [![ComputerService](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/ComputerService.png)](https://template.fusionsvisual.id/GG/ComputerService) | [![SoundService](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/SoundService.png)](https://template.fusionsvisual.id/GG/SoundService)
 Bootstrap Template - #28395 | Bootstrap Template - #27853
 
-Original |
---- |
-[![Original](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Original.png)](https://template.fusionsvisual.id/GG/Original) | [![SoundService](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/SoundService.png)](https://template.fusionsvisual.id/GG/SoundService)
-Brand Bootstrap Theme - #27537
+Original | Store
+--- | ---
+[![Original](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Original.png)](https://template.fusionsvisual.id/GG/Original) | [![Store](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Store.png)](https://template.fusionsvisual.id/GG/Store)
+Brand Bootstrap Theme - #27537 | Bootstrap Theme - #27293
+
+Restaurant | Web Studio
+--- | ---
+[![Restaurant](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Restaurant.png)](https://template.fusionsvisual.id/GG/Restaurant) | [![WebStudio](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/WebStudio.png)](https://template.fusionsvisual.id/GG/WebStudio)
+One Page Bootstrap Theme - #27104 | Bootstrap Template - #26762
+
+Painter Studio | Solid
+--- | ---
+[![PainterStudio](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/PainterStudio.png)](https://template.fusionsvisual.id/GG/PainterStudio) | [![Solid](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Solid.png)](https://template.fusionsvisual.id/GG/Solid)
+Bootstrap Theme - #26636 | Bootstrap Theme - #26504
+
+Blogger | Personal Blog
+--- | ---
+[![Blogger](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Blogger.png)](https://template.fusionsvisual.id/GG/Blogger) | [![PersonalBlog](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/PersonalBlog.png)](https://template.fusionsvisual.id/GG/PersonalBlog)
+Bootstrap Template - #26283 | Blog HTML5 Template - #26217
+
+Photography Responsive | Design Studio
+--- | ---
+[![PhotographyRes](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/PhotographyRes.png)](https://template.fusionsvisual.id/GG/PhotographyRes) | [![DesignStudio](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/DesignStudio.png)](https://template.fusionsvisual.id/GG/DesignStudio)
+Responsive Theme - #25989 | Bootstrap Template - #25848
+
+Pure Portfolio | Personal
+--- | ---
+[![PurePortfolio](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/PurePortfolio.png)](https://template.fusionsvisual.id/GG/PurePortfolio) | [![Personal](https://raw.githubusercontent.com/World-of-Templates/Gridgum-Free-Templates/main/zSupportImages/Personal.png)](https://template.fusionsvisual.id/GG/Personal)
+HTML5 Template - #25685 | Bootstrap Template - #25310
